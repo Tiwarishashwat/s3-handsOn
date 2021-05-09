@@ -10,7 +10,7 @@ export class AppComponent {
   favouriteMovie =  "Lord of the Rings";
   //Implement Employee interface here
   id = 3;
-  name = "Samrat";
+  name = "SHASHWAT_TIWARI";
   salary = 30000;
   isPermanent = true;
   department_id = 1;
